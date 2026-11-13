@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,100:fb923c&height=170&section=header&text=Belal&fontSize=56&fontColor=ffffff&fontAlignY=40" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1600&color=34D399&center=true&vCenter=true&width=520&lines=Building+web+apps+with+AI;Turning+ideas+into+working+products;Obsessed+with+clean+UI" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1600&color=34D399&center=true&vCenter=true&width=560&lines=Aspiring+software+%2F+computer+engineer;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Python;Learning+how+things+work+under+the+hood" alt="typing intro" />
 
 <br/>
 
@@ -10,20 +10,21 @@
 
 ### 👋 Hey, I'm Belal
 
-I build web apps with AI coding tools and turn ideas into things people can actually use. I care a lot about how things look and feel, and I like experimenting at the edge of AI and fun stuff.
+I'm into software and computer engineering. I write HTML, CSS, JavaScript and Python, and I like building small tools and userscripts that automate things or make the web nicer to use. I care about clean, good-looking interfaces, and I'm working on understanding what happens under the hood.
 
 <br/>
 
-### 🧰 What I work with
+### 🧰 Tech
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Userscripts](https://img.shields.io/badge/Userscripts-Tampermonkey-00485B?style=for-the-badge)
 
 </div>
 
@@ -31,8 +32,8 @@ I build web apps with AI coding tools and turn ideas into things people can actu
 
 ### 🌱 Right now
 
-- 🔭 Building a new AI-powered web app
-- 📚 Learning something new every week
+- 🔭 Building personal web projects and improving them step by step
+- 📚 Learning Node.js and how backends work
 - 🤝 Open to collabs and good ideas
 
 <br/>
