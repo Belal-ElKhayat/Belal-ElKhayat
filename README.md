@@ -33,7 +33,7 @@ I'm into software and computer engineering. I write HTML, CSS, JavaScript and Py
 ### 🌱 Right now
 
 - 🔭 Building personal web projects and improving them step by step
-- 📚 Learning Node.js and how backends work
+- 📚 Learning more Python
 - 🤝 Open to collabs and good ideas
 
 <br/>
