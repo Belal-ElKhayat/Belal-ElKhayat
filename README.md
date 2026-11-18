@@ -33,27 +33,19 @@ I'm into software and computer engineering. I write HTML, CSS, JavaScript and Py
 ![CSS3](https://img.shields.io/badge/CSS3-27272A?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-27272A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-27272A?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-27272A?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![C](https://img.shields.io/badge/C-27272A?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C#](https://img.shields.io/badge/C%23-27272A?style=for-the-badge&logo=csharp&logoColor=239120)
-
-**Frameworks & Tools**
-
-![Rust](https://img.shields.io/badge/Rust-27272A?style=for-the-badge&logo=rust&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-27272A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-27272A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Figma](https://img.shields.io/badge/Figma-27272A?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Discord](https://img.shields.io/badge/Discord%20Bots-27272A?style=for-the-badge&logo=discord&logoColor=5865F2)
 ![Userscripts](https://img.shields.io/badge/Userscripts-27272A?style=for-the-badge&logo=tampermonkey&logoColor=00485B)
 
+**Learning**
+
+![Rust](https://img.shields.io/badge/Rust-27272A?style=for-the-badge&logo=rust&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-27272A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+## More ![Python](https://img.shields.io/badge/Python-27272A?style=for-the-badge&logo=python&logoColor=3776AB)
 **Platforms & Workflow**
 
 ![Git](https://img.shields.io/badge/Git-27272A?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-27272A?style=for-the-badge&logo=github&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-27272A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Android](https://img.shields.io/badge/Android-27272A?style=for-the-badge&logo=android&logoColor=3DDC84)
-![Bluetooth LE](https://img.shields.io/badge/Bluetooth%20LE-27272A?style=for-the-badge&logo=bluetooth&logoColor=0082FC)
-![WordPress](https://img.shields.io/badge/WordPress-27272A?style=for-the-badge&logo=wordpress&logoColor=21759B)
 
 </details>
 
@@ -65,24 +57,25 @@ I'm into software and computer engineering. I write HTML, CSS, JavaScript and Py
 <tr>
 <td width="50%" valign="top">
 
-#### 🤖 AI Arena
-A head-to-head arena for comparing and benchmarking AI models/agents against each other.
+#### AI Arena
+Two Models Fight for the win in different games Like : (Chess - A Debate - Connect Four - Uno) and more
 
-![Python](https://img.shields.io/badge/-Python-27272A?style=flat-square&logo=python&logoColor=3776AB)
+![TypeScript](https://shields.io)
 
-**[View repo →](https://github.com/YOUR_GITHUB_USERNAME/ai-arena)**
+
+**[View repo →](https://github.com/Belal-ElKhayat/Ai-Arena)**
 
 </td>
 <td width="50%" valign="top">
 
-#### ⌚ Watchless
-A Huawei fitness band, fully paired and controlled from a Windows PC with **no phone involved**. I reverse-engineered Huawei's proprietary BLE "Link" protocol from scratch — packet framing, a custom CRC16, TLV encoding, and the full HiChain authentication/encryption handshake — by analyzing real BLE traffic and cross-referencing Gadgetbridge's open-source implementation.
+#### Watchless
+Turns a video's transcript into a clean, structured summary — a TL;DR, key points, topic tags, and notable quotes — powered by Google's Gemini API.
 
 ![Python](https://img.shields.io/badge/-Python-27272A?style=flat-square&logo=python&logoColor=3776AB)
-![Bluetooth LE](https://img.shields.io/badge/-BLE-27272A?style=flat-square&logo=bluetooth&logoColor=0082FC)
-![Cryptography](https://img.shields.io/badge/-AES--GCM-27272A?style=flat-square&logo=letsencrypt&logoColor=A1A1AA)
+![HTML5](https://img.shields.io/badge/HTML5-27272A?style=for-the-badge&logo=html5&logoColor=E34F26)
 
-**[View repo →](https://github.com/YOUR_GITHUB_USERNAME/watchless)**
+
+**[View repo →](https://github.com/Belal-ElKhayat/WatchLess)**
 
 </td>
 </tr>
