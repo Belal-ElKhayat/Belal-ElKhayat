@@ -16,7 +16,7 @@ I'm into software and computer engineering. I write HTML, CSS, JavaScript and Py
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=18181b&title_color=f4f4f5&icon_color=a1a1aa&text_color=d4d4d8" height="165" alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Belal ElKhayat&show_icons=true&theme=github_dark&hide_border=true&bg_color=18181b&title_color=f4f4f5&icon_color=a1a1aa&text_color=d4d4d8" height="165" alt="github stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=18181b&ring=a1a1aa&fire=71717a&currStreakLabel=f4f4f5" height="165" alt="streak stats" />
 
 </div>
