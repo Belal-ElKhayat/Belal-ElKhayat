@@ -60,7 +60,7 @@ I'm into software and computer engineering. I write HTML, CSS, JavaScript and Py
 #### AI Arena
 Two Models Fight for the win in different games Like : (Chess - A Debate - Connect Four - Uno) and more
 
-![TypeScript](https://shields.io)
+
 
 
 **[View repo →](https://github.com/Belal-ElKhayat/Ai-Arena)**
@@ -72,6 +72,7 @@ Two Models Fight for the win in different games Like : (Chess - A Debate - Conne
 Turns a video's transcript into a clean, structured summary — a TL;DR, key points, topic tags, and notable quotes — powered by Google's Gemini API.
 
 ![Python](https://img.shields.io/badge/-Python-27272A?style=flat-square&logo=python&logoColor=3776AB)
+
 ![HTML5](https://img.shields.io/badge/HTML5-27272A?style=for-the-badge&logo=html5&logoColor=E34F26)
 
 
