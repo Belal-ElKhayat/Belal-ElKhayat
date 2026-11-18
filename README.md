@@ -49,40 +49,6 @@ I'm into software and computer engineering. I write HTML, CSS, JavaScript and Py
 
 </details>
 
-<br/>
-
-### 🚀 Featured projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### AI Arena
-Two Models Fight for the win in different games Like : (Chess - A Debate - Connect Four - Uno) and more
-
-
-
-
-**[View repo →](https://github.com/Belal-ElKhayat/Ai-Arena)**
-
-</td>
-<td width="50%" valign="top">
-
-#### Watchless
-Turns a video's transcript into a clean, structured summary — a TL;DR, key points, topic tags, and notable quotes — powered by Google's Gemini API.
-
-![Python](https://img.shields.io/badge/-Python-27272A?style=flat-square&logo=python&logoColor=3776AB)
-
-![HTML5](https://img.shields.io/badge/HTML5-27272A?style=for-the-badge&logo=html5&logoColor=E34F26)
-
-
-**[View repo →](https://github.com/Belal-ElKhayat/WatchLess)**
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ### 🌱 Right now
 
